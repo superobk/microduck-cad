@@ -1,0 +1,7 @@
+{
+  "r4_package_sha256": "52978b811a3e5502d5ed608b9e7b16c8ebe7feebd326396754f6d7546d23c896",
+  "robot_geometry_ref": "pollen-robotics/microduck_rl@ceca01706143d729305baa94cbd8ab990979e325",
+  "runtime_patch_ref": "pollen-robotics/microduck@a9ec4b2079ef8ee7904014089c885bb07d57d63c",
+  "software_abi": "superobk/microduck-imu@18a7459322308a258cfd871e742f96ef5e42ae6f",
+  "note": "Complete upstream robot meshes and external slicer binary are not included."
+}

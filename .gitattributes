@@ -1,0 +1,5 @@
+# Keep printable assets byte-identical across platforms.
+*.stl binary
+*.3mf binary
+*.pdf binary
+*.png binary

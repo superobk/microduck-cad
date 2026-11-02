@@ -1,0 +1,117 @@
+{
+  "project": "microduck-stand",
+  "revision": "R5.0-rc1",
+  "published_on": "2026-11-02",
+  "source_package": "Microduck_JIG190_R5_Compact_Full15",
+  "status": "DIGITAL_PROTOTYPE_NOT_SLICED_NOT_PHYSICALLY_VALIDATED",
+  "files": [
+    {
+      "path": "docs/LICENSE-MODELS-UPSTREAM.md",
+      "source_path": "docs/LICENSE-MODELS-UPSTREAM.md",
+      "bytes": 1149,
+      "sha256": "14797e3d4d6e50d19c6c4f99f92e657851b11fe2612dafc616cbbc5fd2ab518d"
+    },
+    {
+      "path": "docs/Microduck_JIG190_R5_Guide_CN.pdf",
+      "source_path": "docs/Microduck_JIG190_R5_Guide_CN.pdf",
+      "bytes": 853489,
+      "sha256": "c78dc4c088525b21b9bf527a555559b935ed6d9d4a249e175df64f7233162e37"
+    },
+    {
+      "path": "docs/sources.lock.json",
+      "source_path": "sources.lock.json",
+      "bytes": 458,
+      "sha256": "3b3205b5860404e044e5cfb4b115c9605ceeeffcf05f734d4e1f0c477faa0272"
+    },
+    {
+      "path": "images/01_R5_assembled.png",
+      "source_path": "images/01_R5_assembled.png",
+      "bytes": 43174,
+      "sha256": "3fff8fab6570a9560ff7ec97f0b45907980984764c569c65bd56464defc25ce3"
+    },
+    {
+      "path": "images/03_exploded.png",
+      "source_path": "images/03_exploded.png",
+      "bytes": 49235,
+      "sha256": "6822799d73034a490fd4eea29ff4b7e04e2cb3939087b6652ea21817ecd7f54f"
+    },
+    {
+      "path": "printing/Microduck_JIG190_R5_P1S_PLA_PREPARE.3mf",
+      "source_path": "printing/Microduck_JIG190_R5_P1S_PLA_PREPARE.3mf",
+      "bytes": 3003728,
+      "sha256": "2ec725f293e93cf11c65101c31eb9c2cd5fc49aeeca9bbb64668d5786757b9b8"
+    },
+    {
+      "path": "printing/P1S_project_settings.json",
+      "source_path": "printing/P1S_project_settings.json",
+      "bytes": 40468,
+      "sha256": "22b9df0de84ab9594b5a794d8bb60df73e237b268dc4786db8098ce1ab212422"
+    },
+    {
+      "path": "stl/01_integrated_main_190.stl",
+      "source_path": "stl/01_integrated_main_190.stl",
+      "bytes": 2300184,
+      "sha256": "68139aa59cb96c700110cfb70b46bd2fb8178848a9618bb1e85c116ea74f562a"
+    },
+    {
+      "path": "stl/02_upper_head_mast.stl",
+      "source_path": "stl/02_upper_head_mast.stl",
+      "bytes": 272084,
+      "sha256": "e8adcd65de0d3caf991adf52efff2b040974440e6c47bade4e1d84387aa5da71"
+    },
+    {
+      "path": "stl/03_head_locator_left.stl",
+      "source_path": "stl/03_head_locator_left.stl",
+      "bytes": 2503884,
+      "sha256": "181403905fc3d47fb0f6ed12eab356dec84a0482f02096d9eed74105731eef5b"
+    },
+    {
+      "path": "stl/04_head_locator_right.stl",
+      "source_path": "stl/04_head_locator_right.stl",
+      "bytes": 386684,
+      "sha256": "8d8331fe1e4b0ddb14a153b8f9cb012bd1ad89b507fc6f0037a2653802f066f0"
+    },
+    {
+      "path": "stl/05_foot_gate_left.stl",
+      "source_path": "stl/05_foot_gate_left.stl",
+      "bytes": 2603984,
+      "sha256": "e29921629b43f0fc0c586bb9328159ebb22d5bc0053673b69beb026f581bbfea"
+    },
+    {
+      "path": "stl/06_foot_gate_right.stl",
+      "source_path": "stl/06_foot_gate_right.stl",
+      "bytes": 2603984,
+      "sha256": "f5fb86789510299888d001869e26cdec07da4ad265fb2c56277bf0072059896d"
+    },
+    {
+      "path": "stl/07_trunk_locator.stl",
+      "source_path": "stl/07_trunk_locator.stl",
+      "bytes": 49784,
+      "sha256": "62c9943e7d5fe5b537d13bbcb528d8cfff335a7516df5fd936a9dedafc9ed974"
+    },
+    {
+      "path": "stl/08_multigauge.stl",
+      "source_path": "stl/08_multigauge.stl",
+      "bytes": 871484,
+      "sha256": "d80a286224fb044f3ed3c0498ec708615b9607e4394d8eabea97f92773e5136a"
+    },
+    {
+      "path": "stl/09_imu_cube_body.stl",
+      "source_path": "stl/09_imu_cube_body.stl",
+      "bytes": 515684,
+      "sha256": "8ab3adbda469eb3d0ed65c0ff4f4955745b007e1151e77da92ec826129cdf3c2"
+    },
+    {
+      "path": "stl/10_imu_cube_lid.stl",
+      "source_path": "stl/10_imu_cube_lid.stl",
+      "bytes": 265084,
+      "sha256": "56d87ec5eb77c4339505022e9f31bd64b05f2656b46daeeb69fb6bacfd57a93e"
+    },
+    {
+      "path": "stl/11_first_fit_coupon.stl",
+      "source_path": "stl/11_first_fit_coupon.stl",
+      "bytes": 122984,
+      "sha256": "c0cf9a8c440766262727a01a8000dbac54e34076f623c717e9cf70dd8dfc97f5"
+    }
+  ]
+}
